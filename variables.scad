@@ -1,6 +1,9 @@
 // Unchangables
 rodOOD=15.5; // Discraft = 15.5, pvc 22
-weightsID=27; // Typically this is 25, 30, or 50
+// Typically this is 25, 30, or 50
+// twoInchPlateHoleID=50.8
+// measuredHoleID=27
+weightsID=27;
 
 // Rod Holder
 rodHolderIDSlop=0.5;

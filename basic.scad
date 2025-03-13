@@ -27,6 +27,3 @@ translate([0, 0, bottomPartHeight]) {
         cylinder(bottomPartHeight, rodHolderID/2, rodHolderID/2);
     }
 }
-
-
-
