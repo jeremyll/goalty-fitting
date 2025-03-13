@@ -1,6 +1,6 @@
 // Unchangables
-rodOOD=15.5;
-weightsID=27;
+rodOOD=15.5; // Discraft = 15.5, pvc 22
+weightsID=27; // Typically this is 25, 30, or 50
 
 // Rod Holder
 rodHolderIDSlop=0.5;

@@ -18,10 +18,10 @@ translate([0, 0, bottomPartHeight]) {
 translate([0, 0, bottomPartHeight]) {
     difference() {
         // Fillet ring
-        cylinder(5, bottomPartOOD/2, rodHolderOOD/2);
+        cylinder(bottomPartHeight, bottomPartOOD/2, rodHolderOOD/2);
         
         // Inner hole for the rod
-        cylinder(5, rodHolderID/2, rodHolderID/2);
+        cylinder(bottomPartHeight, rodHolderID/2, rodHolderID/2);
     }
 }
 
