@@ -7,10 +7,10 @@ rodHolderIDSlop=0.5;
 rodHolderID=rodOOD + rodHolderIDSlop;
 rodHolderOODSlop=1;
 rodHolderOOD=weightsID - rodHolderOODSlop;
-rodHolderHeight=76;
+rodHolderHeight=80;
 
 // Bottom Part
-bottomPartHeight=5;
+bottomPartHeight=7;
 bottomPartOOD=weightsID + 5 * 2;
 
 // Fix low poly cylinder by increasing $fn (facet number)
